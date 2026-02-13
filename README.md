@@ -1,5 +1,5 @@
 # Hi, I'm Kenesuo! 👋 
-MSc Data Science Graduate specializing in Energy Analytics and Machine Learning.
+MSc Data Science Graduate specialising in Energy Analytics and Machine Learning.
 
 ### 🚀 Featured Projects
 - ✅ **[Smart Meter Energy Analysis](https://github.com/Kennyg-w/smart-meter-energy-analysis)**: Big Data & SQL Analytics.
