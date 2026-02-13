@@ -6,3 +6,4 @@ MSc Data Science Graduate specialising in Energy Analytics and Machine Learning.
 - ✅ **[RNA Thermoswitch Design](https://github.com/Kennyg-w/rna-thermoswitch-design)**: Deep Math & Scientific ML.
 - ✅ **[MNIST Digit Classification](https://github.com/Kennyg-w/mnist-digit-classification)**: Computer Vision & Neural Networks.
 - ✅ **[EPL Match Predictor](https://github.com/Kennyg-w/epl-match-prediction)**: Live Web Deployment & Interactive ML.
+- ✅ **California Housing Analysis:** Data Engineering & Advanced Statistics.
