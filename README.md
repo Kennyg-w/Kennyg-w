@@ -6,9 +6,9 @@
 
 ### 🚀 Featured Technical Projects
 
-* ⚓ [1. Infrastructure & Heavy Engineering Analytics (Real Data): Real-world EVM & Predictive Risk system](https://github.com/Kennyg-w/infrastructure-project-analysis): Real-world EVM & Predictive Risk system.
-* 🛳️ [2. Naval Engineering Schedule Analysis (PM & Data Science)](https://github.com/Kennyg-w/naval-p6-analytics): S-Curve & Critical Path detection for fleet readiness.
-* 🏗️ [3. Naval Engineering: Schedule & Cost Performance (EVM)](https://github.com/Kennyg-w/naval-evm-dashboard): Portfolio health monitoring and SPI/CPI quadrant analysis.
+* ⚓ [1. Infrastructure & Heavy Engineering Analytics (Real Data)](https://github.com/Kennyg-w/infrastructure-predictive-analytics): Real-world EVM system identifying a 60.1-day optimism bias and achieving a 29.79 MAE in schedule forecasting.
+* 🛳️ [2. Naval Engineering Schedule Analysis](https://github.com/Kennyg-w/naval-p6-analytics): Utilising S-Curve visualisation and Critical Path logic to detect procurement bottlenecks and ensure fleet readiness.
+* 🏗️ [3. Naval Engineering: Schedule & Cost Performance (EVM)](https://github.com/Kennyg-w/naval-evm-dashboard): Automated portfolio health monitoring using SPI/CPI quadrant analysis across 500+ engineering tasks.
 * ⚡ [4. Smart Meter Energy Analytics & Forecasting](https://github.com/Kennyg-w/smart-meter-energy-analysis): Big Data (1.2M rows) & Demand Forecasting using XGBoost and Prophet.
 * 🧬 [5. Computational Design of RNA Thermoswitches (MSc)](https://github.com/Kennyg-w/rna-thermoswitch-design): Deep Math & Scientific ML (XGBoost 0.90 R²).
 * 📊 [6. Energy Policy A/B Test (Inferential Statistics)](https://github.com/Kennyg-w/energy-policy-ab-test): Hypothesis Testing and Statistical Significance (P-Value: 0.0021).
