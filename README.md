@@ -6,7 +6,7 @@
 
 ### 🚀 Featured Technical Projects
 
-* ⚓ [1. Infrastructure & Heavy Engineering Analytics (Real Data)](https://github.com/Kennyg-w/infrastructure-project-analysis): Real-world EVM & Predictive Risk system.
+* ⚓ [1. Infrastructure & Heavy Engineering Analytics (Real Data): Real-world EVM & Predictive Risk system](https://github.com/Kennyg-w/infrastructure-project-analysis): Real-world EVM & Predictive Risk system.
 * 🛳️ [2. Naval Engineering Schedule Analysis (PM & Data Science)](https://github.com/Kennyg-w/naval-p6-analytics): S-Curve & Critical Path detection for fleet readiness.
 * 🏗️ [3. Naval Engineering: Schedule & Cost Performance (EVM)](https://github.com/Kennyg-w/naval-evm-dashboard): Portfolio health monitoring and SPI/CPI quadrant analysis.
 * ⚡ [4. Smart Meter Energy Analytics & Forecasting](https://github.com/Kennyg-w/smart-meter-energy-analysis): Big Data (1.2M rows) & Demand Forecasting using XGBoost and Prophet.
