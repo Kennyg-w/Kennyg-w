@@ -14,6 +14,7 @@
 * 📊 [6. Energy Policy A/B Test (Inferential Statistics)](https://github.com/Kennyg-w/energy-policy-ab-test): Hypothesis Testing and Statistical Significance (P-Value: 0.0021).
 * 🧠 [7. MNIST Digit Classification](https://github.com/Kennyg-w/mnist-digit-classification): Computer Vision & Neural Networks (97.8% Accuracy).
 * 📊 [8. Naval Maintenance EVM Simulation](https://github.com/Kennyg-w/infrastructure-predictive-analytics): A P6-style simulation of a submarine maintenance cycle, implementing Earned Value Management (EVM) to track SPI, CPI, and Schedule Variance.
+* ⚽ [8. EPL Match Win Prediction System](https://github.com/Kennyg-w/epl-prediction-system): Quantitative sports modeling using TimeSeriesSplit and GridSearchCV (RandomForest).
 
 ---
 
