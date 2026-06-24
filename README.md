@@ -1,6 +1,6 @@
 # Hi, I'm Kenesuo! 👋 
 **MSc Data Science & Project Management Graduate**
-*Specialising in Energy Analytics, Engineering Operations, and Machine Learning.*
+*Specialising in Energy Analytics, Risk Intelligence, and ML-Driven Project Insights.*
 
 ---
 
@@ -16,12 +16,14 @@
 * 📊 [8. Naval Maintenance EVM Simulation](https://github.com/Kennyg-w/infrastructure-predictive-analytics): A P6-style simulation of a submarine maintenance cycle, implementing Earned Value Management (EVM) to track SPI, CPI, and Schedule Variance.
 * ⚽ [9. EPL Match Win Prediction System](https://github.com/Kennyg-w/epl-prediction-system): Quantitative sports modelling using TimeSeriesSplit and GridSearchCV (RandomForest).
 * ⚽ [10. Football Passing Network Analysis](https://github.com/Kennyg-w/football-passing-network): Network science applied to football event data (StatsBomb) to analyse team passing structure. Built player interaction graphs using NetworkX and visualised team shape with mplsoccer, measuring team width, team length, and network assortativity.
+* * 🏗️ [11. Construction Project Risk Pipeline](https://github.com/Kennyg-w/construction-risk-pipeline): 5-stage pandas pipeline across 1,300 tasks and a $64.4M portfolio. Engineered 12 features, composite risk scoring, and surfaced 87 underestimated risk tasks and 5 critical schedule threats.
 
 ---
 
 ### 🛠️ Technical Toolkit
 * **Languages:** Python (Pandas, Scikit-Learn, TensorFlow, Prophet), SQL (DuckDB, PostgreSQL).
 * **PM Tools:** Primavera P6 (Logic), Earned Value Management (EVM), Agile.
-* **Specialities:** Time-Series Forecasting, Anomaly Detection, Multivariate Regression.
+* **Specialities:** Time-Series Forecasting, Anomaly Detection, Multivariate Regression, Risk Scoring & Pipeline Architecture.
+* **Data Engineering:** pandas pipelines, feature engineering, schema validation, automated reporting.
 
 📫 **How to reach me:** [ken.wolo@yahoo.co.uk](mailto:ken.wolo@yahoo.co.uk) | [LinkedIn](https://linkedin.com/in/kenwolo)
