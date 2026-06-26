@@ -7,7 +7,7 @@
 ## 🚀 Featured Technical Projects
 
 * ⚓ [1. Infrastructure & Heavy Engineering Analytics](https://github.com/Kennyg-w/infrastructure-analytics): Real-world EVM system identifying a 60.1-day optimism bias and achieving a 29.79 MAE in schedule forecasting.
-* 🛳️ [2. Naval Engineering Schedule Analysis](https://github.com/Kennyg-w/naval-schedule-analysis): Utilising S-Curve visualisation and Critical Path logic to detect procurement bottlenecks and ensure fleet readiness.
+* 🛳️ [2. Naval Engineering Schedule Analysis & Resource](https://github.com/Kennyg-w/naval-project-planning): Utilising S-Curve visualisation and Critical Path logic to detect procurement bottlenecks and ensure fleet readiness.
 * 🏗️ [3. Schedule & Cost Performance](https://github.com/Kennyg-w/naval-evm): Automated portfolio health monitoring using SPI/CPI quadrant analysis across 500+ engineering tasks.
 * ⚡ [4. Smart Meter Energy Analytics & Forecasting](https://github.com/Kennyg-w/energy-usage-analysis): Big Data (1.2M rows) & Demand Forecasting using XGBoost and Prophet.
 * 🧬 [5. Computational Design of RNA Thermoswitches (MSc)](https://github.com/Kennyg-w/rna-thermoswitch-design): Deep Math & Scientific ML (XGBoost 0.90 R²).
