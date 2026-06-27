@@ -1,5 +1,4 @@
 ![Banner](banner.png)<img width="1188" height="297" alt="banner" src="https://github.com/user-attachments/assets/0b7564b8-0d93-44b5-949c-6119ef38f6d2" />
-<img width="1188" height="297" alt="banner" src="https://github.com/user-attachments/assets/80df0a36-e2f7-4d38-8de1-dc8588472daf" />
 
 # Hi, I'm Kenesuo! 👋
 **MSc Data Science & Project Management Graduate**
