@@ -16,11 +16,11 @@
 
 * 📊 [4. Energy Policy A/B Test (Inferential Statistics)](https://github.com/Kennyg-w/energy-policy-ab-test-inferential-statistics): Policy impact evaluation via hypothesis testing (**p-value = 0.0021**, 99%+ confidence), quantifying a **4.33% reduction** in peak-hour energy usage.
 
-* ⚓ [5. Naval Engineering: Schedule & Cost Performance (EVM)](https://github.com/Kennyg-w/naval-engineering-schedule-cost-performance-evm): **P6-style** submarine maintenance simulation tracking **SPI**, **CPI**, and **Schedule Variance** across **500 tasks**.
+* 🛳️ [5. Naval Engineering Schedule Analysis & Resource](https://github.com/Kennyg-w/naval-engineering-schedule-analysis-resource): **S-curve** and **Critical Path** analysis surfacing a **15-day procurement delay** to protect fleet readiness.
 
-* 🛳️ [6. Naval Engineering Schedule Analysis & Resource](https://github.com/Kennyg-w/naval-engineering-schedule-analysis-resource): **S-curve** and **Critical Path** analysis surfacing a **15-day procurement delay** to protect fleet readiness.
+* 🧬 [6. Computational Design of RNA Thermoswitches (MSc Dissertation)](https://github.com/Kennyg-w/computational-rna-thermoswitch-design): Scientific ML for RNA thermoswitch behaviour using **XGBoost (R² = 0.90)**, screening **50,000+ sequences** in under **10ms** per candidate.
 
-* 🧬 [7. Computational Design of RNA Thermoswitches (MSc Dissertation)](https://github.com/Kennyg-w/computational-rna-thermoswitch-design): Scientific ML for RNA thermoswitch behaviour using **XGBoost (R² = 0.90)**, screening **50,000+ sequences** in under **10ms** per candidate.
+* ⚓ [7. Naval Engineering: Schedule & Cost Performance (EVM)](https://github.com/Kennyg-w/naval-engineering-schedule-cost-performance-evm): **P6-style** submarine maintenance simulation tracking **SPI**, **CPI**, and **Schedule Variance** across **500 tasks**.
 
 * 🏠 [8. California Housing — Cleaning & EDA](https://github.com/Kennyg-w/california-housing-cleaning-eda): **20,640-district** EDA; imputed **207** missing values, flagged **965** price-capped records, and showed **median income** (r ≈ **0.69**) driving a ~**2× coastal premium**.
 
