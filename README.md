@@ -8,7 +8,7 @@
 
 * 🏗️ [1. Construction-Project-Risk-Intelligence-Pipeline](https://github.com/Kennyg-w/construction-project-risk-pipeline): 5-stage **pandas** risk pipeline across **1,300 tasks** and a **$64.4M** portfolio, surfacing **87** underestimated risks and **5** critical schedule threats.
 
-* 🏗️ [2. Smart Meter Energy Analytics & Forecasting](https://github.com/Kennyg-w/smart-meter-energy-analytics-forecasting): **1.2M-row** smart meter dataset with **XGBoost** and **Prophet** demand forecasts.
+* 🏗️ [2. Smart Meter Energy Analytics & Forecasting](https://github.com/Kennyg-w/smart-meter-energy-analytics-forecasting): **1.2M-row** smart meter dataset; lifted demand prediction accuracy by **40%** using **XGBoost** and **Prophet** forecasts.
   
 * ⚓ [3. Infrastructure & Heavy Engineering Analytics](https://github.com/Kennyg-w/infrastructure-heavy-engineering-analytics): EVM analytics detecting a **60.1-day optimism bias** and achieving **29.79 MAE** in schedule forecasting.
 
@@ -35,6 +35,7 @@
 * **PM Tools:** Primavera P6 (Logic), Earned Value Management (EVM), Agile.
 * **Specialities:** Time-Series Forecasting, Anomaly Detection, Multivariate Regression, Risk Scoring & Pipeline Architecture.
 * **Data Engineering:** pandas pipelines, feature engineering, schema validation, automated reporting.
+* **Visualisation:** Power BI, Tableau, Matplotlib, Seaborn
 
 📫 **How to reach me:** [ken.wolo@yahoo.co.uk](mailto:ken.wolo@yahoo.co.uk) | [LinkedIn](https://linkedin.com/in/kenwolo)
 
