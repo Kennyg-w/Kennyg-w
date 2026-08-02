@@ -30,6 +30,8 @@
 
 * 🧠 [11. MNIST Digit Classification](https://github.com/Kennyg-w/mnist-digit-classification): Computer vision classifier achieving **97.8% accuracy** on MNIST.
 
+* 🏗️ [12. Infrastructure Analytics — Full Stack Rebuild](https://github.com/Kennyg-w/construction-predictive-analytics): Full rebuild of the EVM pipeline adding **SQLite** database layer, **Excel** manual EVM formulas, and **Power BI** interactive dashboard across 1,300 tasks.
+
 ---
 
 ## 🛠️ Technical Toolkit
