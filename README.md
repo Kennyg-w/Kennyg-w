@@ -1,7 +1,7 @@
 ![Banner](banner.png)<img width="1188" height="297" alt="banner" src="https://github.com/user-attachments/assets/0b7564b8-0d93-44b5-949c-6119ef38f6d2" />
 
 # Hi, I'm Kenesuo! 👋
-**MSc Data Science & Project Management Graduate**
+**MSc Data Science (Commendation) | MSc Project Management | BEng Mechanical/Offshore Engineering**
 *Specialising in Energy Analytics, Risk Intelligence, and ML-Driven Project Insights.*
 
 ---
